@@ -1,4 +1,3 @@
-# Импорт библиотеки Pandas
 import pandas as pd
 
 # Создание DataFrame из списка словарей
